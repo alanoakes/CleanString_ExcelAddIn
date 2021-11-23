@@ -10,8 +10,8 @@ Tue 23 Nov 2021 17:10
   * Option 2: Removes all special characters and non-alphabetical characters
   * Option 3: Removes all special characters and non-numerical characters
 
-![Xcel Picture]()
+![](https://github.com/alanoakes/CleanString_ExcelAddIn/raw/master/CleanString_fctn.PNG)
 
 ## Here Is The Add In Back-End
 
-![Function Picture]()
+![](https://github.com/alanoakes/CleanString_ExcelAddIn/raw/master/CleanString_carbon.png)
