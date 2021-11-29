@@ -3,7 +3,12 @@ This is an Excel add in for a User-Defined Function (UDF) to clean strings.
 
 Tue 23 Nov 2021 17:10
 
-## How Does It Work?
+## Functions Included
+1. MergeRows
+2. CleanString
+3. DeleteRows
+
+## How Does CleanString Work?
 1. Select a cell that contains a string
 2. Enter 1,2,3 for the cleaning option:
   * Option 1: Removes all special characters only
